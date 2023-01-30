@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
+  <h1>Profile Readme</h1>
+  <h3>He podiado un readme!</h3>
 </div>
 
 <p align="center">
